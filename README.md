@@ -1,2 +1,2 @@
 # Calendar-Management-System
-This project is a Calendar Management System. The user can add and check there event in each day.
+This project is a Calendar Management System. It is a terminal-based job matching system developed in C++ that enables companies to post job listings and job seekers to search and apply for jobs. The system uses a custom linked list structure to manage dynamic job and applicant data. It also features authentication and role-based access control for job seekers and companies, supporting resume submission, job requirement filtering, and persistent file-based data handling to simulate a basic job application workflow.
